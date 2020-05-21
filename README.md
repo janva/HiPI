@@ -2,7 +2,7 @@
 
 I've got this old Raspberry PI 1b that I haven't used for ages, so I thought it was time to dust it of and get it up and running. I found this Hello world type of project on how to get a LED blinking that I followed. This is short description of what I did.
 
-#Table of contents
+# Table of contents
 
 - [Hi Pi!](#hi-pi)
   - [Equipment](#equipment)
